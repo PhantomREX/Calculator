@@ -1,0 +1,21 @@
+C:\Users\local.egitmen\source\repos\Yazılım Uzmanlığı Haftasonu - 02.10.2021\Windows Form Application\20220402_1_HesapMakinesi\20220402_1_HesapMakinesi\bin\Debug\20220402_1_HesapMakinesi.exe.config
+C:\Users\local.egitmen\source\repos\Yazılım Uzmanlığı Haftasonu - 02.10.2021\Windows Form Application\20220402_1_HesapMakinesi\20220402_1_HesapMakinesi\bin\Debug\20220402_1_HesapMakinesi.exe
+C:\Users\local.egitmen\source\repos\Yazılım Uzmanlığı Haftasonu - 02.10.2021\Windows Form Application\20220402_1_HesapMakinesi\20220402_1_HesapMakinesi\bin\Debug\20220402_1_HesapMakinesi.pdb
+C:\Users\local.egitmen\source\repos\Yazılım Uzmanlığı Haftasonu - 02.10.2021\Windows Form Application\20220402_1_HesapMakinesi\20220402_1_HesapMakinesi\obj\Debug\20220402_1_HesapMakinesi.csprojAssemblyReference.cache
+C:\Users\local.egitmen\source\repos\Yazılım Uzmanlığı Haftasonu - 02.10.2021\Windows Form Application\20220402_1_HesapMakinesi\20220402_1_HesapMakinesi\obj\Debug\_20220402_1_HesapMakinesi.Form1.resources
+C:\Users\local.egitmen\source\repos\Yazılım Uzmanlığı Haftasonu - 02.10.2021\Windows Form Application\20220402_1_HesapMakinesi\20220402_1_HesapMakinesi\obj\Debug\_20220402_1_HesapMakinesi.Properties.Resources.resources
+C:\Users\local.egitmen\source\repos\Yazılım Uzmanlığı Haftasonu - 02.10.2021\Windows Form Application\20220402_1_HesapMakinesi\20220402_1_HesapMakinesi\obj\Debug\20220402_1_HesapMakinesi.csproj.GenerateResource.cache
+C:\Users\local.egitmen\source\repos\Yazılım Uzmanlığı Haftasonu - 02.10.2021\Windows Form Application\20220402_1_HesapMakinesi\20220402_1_HesapMakinesi\obj\Debug\20220402_1_HesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\local.egitmen\source\repos\Yazılım Uzmanlığı Haftasonu - 02.10.2021\Windows Form Application\20220402_1_HesapMakinesi\20220402_1_HesapMakinesi\obj\Debug\20220402_1_HesapMakinesi.exe
+C:\Users\local.egitmen\source\repos\Yazılım Uzmanlığı Haftasonu - 02.10.2021\Windows Form Application\20220402_1_HesapMakinesi\20220402_1_HesapMakinesi\obj\Debug\20220402_1_HesapMakinesi.pdb
+C:\Users\steam\Desktop\DERSLER\KURS DERSLER\20220402_1_HesapMakinesi\20220402_1_HesapMakinesi\bin\Debug\20220402_1_HesapMakinesi.exe.config
+C:\Users\steam\Desktop\DERSLER\KURS DERSLER\20220402_1_HesapMakinesi\20220402_1_HesapMakinesi\bin\Debug\20220402_1_HesapMakinesi.exe
+C:\Users\steam\Desktop\DERSLER\KURS DERSLER\20220402_1_HesapMakinesi\20220402_1_HesapMakinesi\bin\Debug\20220402_1_HesapMakinesi.pdb
+C:\Users\steam\Desktop\DERSLER\KURS DERSLER\20220402_1_HesapMakinesi\20220402_1_HesapMakinesi\obj\Debug\20220402_1_HesapMakinesi.csproj.AssemblyReference.cache
+C:\Users\steam\Desktop\DERSLER\KURS DERSLER\20220402_1_HesapMakinesi\20220402_1_HesapMakinesi\obj\Debug\20220402_1_HesapMakinesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\steam\Desktop\DERSLER\KURS DERSLER\20220402_1_HesapMakinesi\20220402_1_HesapMakinesi\obj\Debug\_20220402_1_HesapMakinesi.Form1.resources
+C:\Users\steam\Desktop\DERSLER\KURS DERSLER\20220402_1_HesapMakinesi\20220402_1_HesapMakinesi\obj\Debug\_20220402_1_HesapMakinesi.Properties.Resources.resources
+C:\Users\steam\Desktop\DERSLER\KURS DERSLER\20220402_1_HesapMakinesi\20220402_1_HesapMakinesi\obj\Debug\20220402_1_HesapMakinesi.csproj.GenerateResource.cache
+C:\Users\steam\Desktop\DERSLER\KURS DERSLER\20220402_1_HesapMakinesi\20220402_1_HesapMakinesi\obj\Debug\20220402_1_HesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\steam\Desktop\DERSLER\KURS DERSLER\20220402_1_HesapMakinesi\20220402_1_HesapMakinesi\obj\Debug\20220402_1_HesapMakinesi.exe
+C:\Users\steam\Desktop\DERSLER\KURS DERSLER\20220402_1_HesapMakinesi\20220402_1_HesapMakinesi\obj\Debug\20220402_1_HesapMakinesi.pdb
